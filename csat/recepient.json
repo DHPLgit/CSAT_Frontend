@@ -1,0 +1,103 @@
+{
+    "surveys": [
+      {
+        "survey_id": 1,
+        "customer_name": "John Doe",
+        "email_id": "johndoe@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 2,
+        "customer_name": "Smith",
+        "email_id": "Smith@example.com",
+        "status": "In Progress"
+      },
+      {
+        "survey_id": 3,
+        "customer_name": "Jith",
+        "email_id": "Jith@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 3,
+        "customer_name": "Nira",
+        "email_id": "Nira@example.com",
+        "status": "In Progress"
+      },
+      {
+        "survey_id": 4,
+        "customer_name": "Ava Brown",
+        "email_id": "ava.brown@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 5,
+        "customer_name": "Liam Johnson",
+        "email_id": "liam.johnson@example.com",
+        "status": "Pending"
+      },
+      {
+        "survey_id": 6,
+        "customer_name": "Emma Davis",
+        "email_id": "emma.davis@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 7,
+        "customer_name": "Noah Wilson",
+        "email_id": "noah.wilson@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 8,
+        "customer_name": "Sophia Martinez",
+        "email_id": "sophia.martinez@example.com",
+        "status": "In Progress"
+      },
+      {
+        "survey_id": 9,
+        "customer_name": "James Anderson",
+        "email_id": "james.anderson@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 10,
+        "customer_name": "Isabella Thomas",
+        "email_id": "isabella.thomas@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 11,
+        "customer_name": "Lucas White",
+        "email_id": "lucas.white@example.com",
+        "status": "Pending"
+      },
+      {
+        "survey_id": 12,
+        "customer_name": "Mia Harris",
+        "email_id": "mia.harris@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 13,
+        "customer_name": "Ethan Moore",
+        "email_id": "ethan.moore@example.com",
+        "status": "In Progress"
+      },
+      {
+        "survey_id": 14,
+        "customer_name": "Olivia Clark",
+        "email_id": "olivia.clark@example.com",
+        "status": "Sent"
+      },
+      {
+        "survey_id": 15,
+        "customer_name": "Benjamin Lewis",
+        "email_id": "benjamin.lewis@example.com",
+        "status": "Sent"
+      }
+    ]
+  }
+  
+  
+  
