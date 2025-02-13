@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         SONAR_PROJECT_KEY = 'React.js'
-        GITHUB_REPO = 'https://github.com/simonebinezer/React.js.git'
+        GITHUB_REPO = 'https://github.com/DHPLgit/CSAT_Frontend.git'
         SONAR_HOST_URL = 'http://34.213.46.217:9000'
         SONAR_TOKEN = credentials('Sonar_Token') // Replace with the ID of your SonarQube token
         TARGET_SERVER = 'ec2-user@ec2-35-91-75-215.us-west-2.compute.amazonaws.com'
