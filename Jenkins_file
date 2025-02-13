@@ -8,7 +8,7 @@ pipeline {
         TARGET_SERVER = 'ec2-user@ec2-35-91-75-215.us-west-2.compute.amazonaws.com'
         TARGET_PATH = '/home/ec2-user/'
         SSH_KEY_PATH = '/var/jenkins_home/.ssh/id_rsa'
-        ZIP_FILE_NAME = 'Csat.zip'
+        ZIP_FILE_NAME = 'csat.zip'
     }
 
     stages {
@@ -26,11 +26,11 @@ pipeline {
                         // Ensure the src folder exists
                         echo "Archiving source folder into ${ZIP_FILE_NAME}..."
                         sh """
-                            if [ ! -d Csat ]; then
-                                echo "Error: Directory 'Csat/' not found!" >&2
+                            if [ ! -d csat ]; then
+                                echo "Error: Directory 'csat/' not found!" >&2
                                 exit 1
                             fi
-                            zip -r ${ZIP_FILE_NAME} Csat/
+                            zip -r ${ZIP_FILE_NAME} csat/
                         """
 
                         echo "Transferring ${ZIP_FILE_NAME} to the target server..."
