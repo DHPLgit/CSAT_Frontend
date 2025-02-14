@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/csat/static/css/main.f64aa3c2.css",
+    "main.js": "/csat/static/js/main.4e667445.js",
+    "static/media/login-background.png": "/csat/static/media/login-background.d3501de0ab491882f3c6.png",
+    "index.html": "/csat/index.html",
+    "main.f64aa3c2.css.map": "/csat/static/css/main.f64aa3c2.css.map",
+    "main.4e667445.js.map": "/csat/static/js/main.4e667445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64aa3c2.css",
+    "static/js/main.4e667445.js"
+  ]
+}
